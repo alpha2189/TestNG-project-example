@@ -10,3 +10,9 @@ There are annotations for test cases, running before the the main test cases, or
 
 This framework is only for education purpose and forgive me if you see many errors, i'm just trying to learn. 
 Thanx! Enjoy.
+
+
+
+You can also see the reports from the test cases  by clicking to test-output --> index.html
+                                        and then clicking to failed results or pass results.
+                                        There you will find everything into a report.
